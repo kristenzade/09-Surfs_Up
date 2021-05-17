@@ -10,15 +10,15 @@ The purpose of this project is to determine the temperature data for the months 
 ### Results: 
 
 ##### Deliverable 1: Summary Statistics for June
-####  1: Oahu observes higher mean temperature in June of 74.9 
-####  2: 75% percentile recorded temperature of 77
-####  3: Even minimum temperature recorded was 64
+  1: Oahu observes higher mean temperature in June of 74.9 
+  2: 75% percentile recorded temperature of 77
+  3: Even minimum temperature recorded was 64
 
 
 ##### Deliverable 2: Summary Statistics for December
-####  1: Oahu observes lower mean temperature in December of 71 
-####  2: 75% percentile recorded temperature of 74
-####  3: Minimum temperature recorded was 56
+  1: Oahu observes lower mean temperature in December of 71 
+  2: 75% percentile recorded temperature of 74
+  3: Minimum temperature recorded was 56
 
 ### Summary of results: 
 
