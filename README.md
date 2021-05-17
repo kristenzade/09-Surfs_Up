@@ -1,9 +1,9 @@
 # 09-Surfs_Up
 
-## Overview of Project
-The purpose of this project is to determine the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round
+## Overview of Project:
+The purpose of this project is to determine the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-## Purpose
+## Purpose:
  Determine the Summary Statistics for June
  Determine the Summary Statistics for December
 
